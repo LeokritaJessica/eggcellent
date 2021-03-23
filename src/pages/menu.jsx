@@ -1,6 +1,6 @@
 import React from "react";
 
-const About = () => {
+const Menu = () => {
   return (
     <div className="h-screen flex justify-center items-center bg-yellow-300">
       <h1 className="text-9xl uppercase font-black">egg menu</h1>
@@ -8,4 +8,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Menu;
